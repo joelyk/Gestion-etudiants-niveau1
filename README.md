@@ -53,17 +53,17 @@ Ce projet est une application permettant de gérer les informations des étudian
 
 1. 📥 **Cloner ce dépôt** :  
    ```bash
-   git clone https://github.com/votre-utilisateur/gestion-etudiants.git
+   git clone https://github.com/joelyk/Gestion-etudiants.git
    ```
 
 2. ⚙️ **Compiler le programme** :  
    ```bash
-   gcc gestion_etudiants.c -o gestion_etudiants
+   gcc main.c -o gestion_etudiants
    ```
 
 3. 🏃 **Exécuter le programme** :  
    ```bash
-   ./gestion_etudiants
+   ./main
    ```
 
 ---
@@ -101,4 +101,4 @@ Pour toute question ou suggestion :
 
 ---
 
-Ajoutez ce fichier en créant un fichier `README.md` dans votre dépôt GitHub et en y collant ce contenu. 😊
+
