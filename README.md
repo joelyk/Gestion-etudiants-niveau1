@@ -42,7 +42,7 @@ Ce projet est une application permettant de gérer les informations des étudian
 
 ```
 .
-├── gestion_etudiants.c      # Code source principal
+├── main.c      # Code source principal
 ├── etudiants.dat            # Fichier binaire pour sauvegarde
 └── README.md                # Documentation du projet
 ```
