@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1736566399 source:c:\users\joelyk\documents\dev\devc\gestion-etudiants-niveau1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
